@@ -39,7 +39,7 @@
   <project path="packages/apps/InCallUI" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_InCallUI" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_ContactsCommon" groups="pdk-fs" />
   <project path="vendor/cm" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_vendor_cm" />
-  <project path="packages/apps/Settings" remote="sdhz151" revision="cm-13.0" name="sdhz151/Resurrection_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/Settings" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="packages/apps/Messaging" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/Contacts" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/Calendar" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Calendar" groups="pdk-fs" />
