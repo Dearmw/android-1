@@ -44,7 +44,7 @@
   <project path="packages/apps/Contacts" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/Calendar" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Calendar" groups="pdk-fs" />
   <project path="packages/apps/Dialer" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_packages_apps_Dialer" groups="pdk-fs" />
-  <project path="frameworks/base" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_frameworks_base-1" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/base" remote="sdhz151" revision="cm-13.0" name="sdhz151/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
